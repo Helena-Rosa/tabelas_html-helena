@@ -1,0 +1,24 @@
+{
+  "name": "tabelas_html-helena",
+  "version": "1.0.0",
+  "description": "estudos sobre tabelas com html e css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helena-Rosa/tabelas_html-helena.git"
+  },
+  "keywords": [
+    "tabelas",
+    "css",
+    "html"
+  ],
+  "author": "Helena Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helena-Rosa/tabelas_html-helena/issues"
+  },
+  "homepage": "https://github.com/Helena-Rosa/tabelas_html-helena#readme"
+}
